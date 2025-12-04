@@ -4,4 +4,6 @@ git add .
 git commit -m "Update portfolio"
 git push
 npm run deploy
+
+https://kennefritz.github.io/myportfolio/
 ``` 
