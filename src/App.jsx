@@ -133,7 +133,7 @@ export default function Portfolio() {
                 <div className="max-w-4xl mx-auto px-6 text-center z-10">
                     <div className="mb-8 animate-fade-in">
                         <h1 className="text-7xl font-bold mb-4 bg-gradient-to-r from-cyan-400 via-blue-500 to-emerald-400 bg-clip-text text-transparent animate-pulse">
-                            Bonjour, je suis FRITZ
+                            Bonjour, je suis FRITZ KENNE SANKWE
                         </h1>
                         <p className="text-3xl text-slate-200 mb-2 font-semibold">Développeur Web & Mobile / Analyste Fonctionnel</p>
                         <p className="text-xl text-slate-300">Je crée des expériences web et mobiles modernes et performantes</p>
@@ -176,15 +176,15 @@ export default function Portfolio() {
                     <div className="grid md:grid-cols-2 gap-12 items-center">
                         <div className="space-y-6">
                             <p className="text-lg text-slate-300 leading-relaxed">
-                                Passionné par le développement logiciel depuis plus de 5 ans, je combine expertise technique et vision fonctionnelle pour créer des solutions innovantes et performantes.
+                               En tant qu’Analyste Fonctionnel, je traduis les besoins métiers en spécifications claires et exploitables, tout en veillant à l’alignement entre les attentes des clients, la faisabilité technique et les objectifs du projet. J’analyse les exigences, définis les flux fonctionnels, anticipe les contraintes potentielles et propose des solutions optimales pour orienter la direction globale du projet.
                             </p>
 
                             <p className="text-lg text-slate-300 leading-relaxed">
-                                Mon parcours m'a permis de maîtriser aussi bien le développement mobile natif (Android/Kotlin) que cross-platform (React Native), ainsi que le développement web full-stack avec React et .NET.
+                               En complément de ces responsabilités fonctionnelles, je réalise l’estimation des projets mobiles en fonction des besoins des clients et contribue au choix de la stack technique la plus adaptée. J’encadre également le processus de développement, incluant la gestion de l’équipe, les revues de code, le contrôle de la qualité du développement et le déploiement sur les stores.
                             </p>
 
                             <p className="text-lg text-slate-300 leading-relaxed">
-                                En tant qu'analyste fonctionnel, je sais traduire les besoins métier en spécifications techniques claires, assurant ainsi la réussite des projets du concept à la mise en production.
+                                Grâce à une solide expérience en développement Android et cross-platform, j’apporte une réelle profondeur technique aux prises de décision et garantis une livraison cohérente et de haute qualité. Je forme et supervise également les développeurs juniors et les stagiaires, les aidant à développer leurs compétences tout en maintenant des standards élevés au sein de l’équipe.
                             </p>
 
                             <div className="grid grid-cols-2 gap-6 mt-8">
